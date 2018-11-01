@@ -1,7 +1,6 @@
 # Awesome Tibetan Canon ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> Datasets and resources for the Tibetan canon, including: 
-> Kangyur, Tengyur, 
+> Datasets and resources for the Tibetan canon 
 
 ## Contents
 - [Etexts](#etexts)
