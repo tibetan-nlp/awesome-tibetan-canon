@@ -9,14 +9,13 @@
 - [Resources](#resources)
 
 ## Etexts
-Kangyur
+##### Kangyur
 - [ACIP Derge Kangyur](http://www.asianclassics.org/tibetan/) - Lhasa input proofread against Derge, vol. xx missing
 - [SOAS-THL Derge Kangyur](http://www.thlib.org/encyclopedias/literary/canons/kt/catalog.php#cat=kt/d/0001/text/v001p1b) -  several input compared and proofread against LOC Derge scans, missing end of vol. 100, vol. 103 
 - [Esukhia Derge Kangyur](https://github.com/Esukhia/derge-kangyur) - SOAS-THL further proofread with scripts, annotated, missing vol. 103
 - [Adarsha Lithang Kangyur]() - Lithang input proofread against Adarsha scans, annotated
-- ...
 
-Tengyur
+##### Tengyur
 - [ACIP Derge Tengyur](http://www.asianclassics.org/tibetan/) - Derge input 
 - [Esukhia Derge Tengyur](https://github.com/Esukhia/derge-kangyur) - Namsel OCR and ACIP etexts compared and proofread against Esukhia scans, further proofread with scripts, annotated
 
@@ -25,22 +24,20 @@ Tengyur
 
 ### Websites
 
-Kangyur
+##### Kangyur
 - [rKTs](https://www.istb.univie.ac.at/kanjur/rktsneu/sub/archives.php) - wow!
-- [bdrc](https://www.tbrc.org/#!rid=T2423) - Scanned Kangyurs
+- [BDRC Kangyurs (legacy)](https://www.tbrc.org/#!rid=T2423) - Scanned Kangyurs
+- [BDRC Kangyurs (BUDA)](http://library.bdrc.io/search?r=bdr:T2423&t=Work) - Scanned Kangyurs
+- [EAP collection 570](https://eap.bl.uk/project/EAP570) - scanned collection including several canons
 
-### IIIF
-Something about 'IIIF'
+##### Tengyur
 
-- [bel](https://github.com/shama/bel) - Create composable DOM elements using
-  template strings.
+- [BDRC Tengyurs (legacy)](https://www.tbrc.org/#!rid=T3CN2023) - Scanned Tengyurs
+- [BDRC Tengyurs (BUDA)](http://library.bdrc.io/search?r=bdr:T3CN2023&t=Work) - Scanned Tengyurs
 
 
 ## Community
 
-- [Slack](https://tibettech.slack.com/)
-
+- [TibetTech Slack](https://tibettech.slack.com/messages/CDHUL2PR6/) (`#canon` channel)
 
 ## Resources
-
-- 
