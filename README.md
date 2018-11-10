@@ -28,7 +28,7 @@
 - [rKTs](https://www.istb.univie.ac.at/kanjur/rktsneu/sub/archives.php) - wow!
 - [BDRC Kangyurs (legacy)](https://www.tbrc.org/#!rid=T2423) - Scanned Kangyurs
 - [BDRC Kangyurs (BUDA)](http://library.bdrc.io/search?r=bdr:T2423&t=Work) - Scanned Kangyurs
-- [EAP collection 570](https://eap.bl.uk/project/EAP570) - scanned collection including several canons
+- [EAP collection 570](https://eap.bl.uk/project/EAP570), [EAP collection 039](https://eap.bl.uk/project/EAP039), [EAP collection 310](https://eap.bl.uk/project/EAP310) - scanned collection including several canons
 
 ##### Tengyur
 
