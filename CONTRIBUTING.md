@@ -2,7 +2,7 @@
 
 Ensure your pull request adheres to the following guidelines:
 
-- We use "choo"—not "Choo" and definitely not "ChooJS"
+- We use "choo"—not "Choo" and definitely not "ChoooJS"
 - Search previous suggestions before making a new one, as yours may be a duplicate
 - If you just created something, wait at least a couple of weeks before submitting
 - You should of course have read or used the thing you're submitting
